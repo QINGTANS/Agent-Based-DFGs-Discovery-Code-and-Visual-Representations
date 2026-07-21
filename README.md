@@ -31,11 +31,11 @@ All visualizations within a folder are generated using the corresponding thresho
 
 The repository includes visualizations generated from the following eight BPIC event logs:
 
-- BPIC2012
-- BPIC2013
-- BPIC2014
-- BPIC2015-1
-- BPIC2015-2
-- BPIC2015-3
-- BPIC2015-4
-- BPIC2015-5
+- BPIC2012: https://doi.org/10.4121/uuid:3926db30-f712-4394-aebc-75976070e91f
+- BPIC2013: https://doi.org/10.4121/uuid:a7ce5c55-03a7-4583-b855-98b86e1a2b07
+- BPIC2014: https://doi.org/10.4121/uuid:3cfa2260-f5c5-44be-afe1-b70d35288d6d
+- BPIC2015-1: https://doi.org/10.4121/uuid:a0addfda-2044-4541-a450-fdcc9fe16d17
+- BPIC2015-2: https://doi.org/10.4121/uuid:63a8435a-077d-4ece-97cd-2c76d394d99c
+- BPIC2015-3: https://doi.org/10.4121/uuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe
+- BPIC2015-4: https://doi.org/10.4121/uuid:679b11cf-47cd-459e-a6de-9ca614e25985
+- BPIC2015-5: https://doi.org/10.4121/uuid:b32c6fe5-f212-4286-9774-58dd53511cf8
