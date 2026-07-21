@@ -2,7 +2,7 @@
 
 This repository contains the code for discovering Agent-Based Directly-Follows Graphs (DFG) and generating their visual representations.
 
-## Configuration
+### Configuration
 
 Before running the Jupyter Notebook, configure the following thresholds in the **first cell**:
 
